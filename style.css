@@ -1,0 +1,23 @@
+body{
+    margin:0%;
+    padding:0%;
+    background: black;
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    color: cornflowerblue;
+    font-weight: bolder;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    font-size: 100px;
+    white-space: nowrap;
+
+}
